@@ -9,15 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@next/swc-wasm-nodejs": "^15.4.5",
-    "@next/swc-win32-x64-msvc": "^15.4.5",
-    "canvas-confetti": "^1.9.3",
-    "lucide-react": "^0.533.0",
-    "motion": "^12.23.11",
-    "next": "15.4.4",
-    "react": "19.1.0",
-    "react-dom": "19.1.0"
-  },
+  "@next/swc-wasm-nodejs": "^15.4.5",
+  "canvas-confetti": "^1.9.3",
+  "lucide-react": "^0.533.0",
+  "motion": "^12.23.11",
+  "next": "15.4.4",
+  "react": "19.1.0",
+  "react-dom": "19.1.0"
+},
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
@@ -26,3 +25,4 @@
     "tailwindcss": "^4"
   }
 }
+
