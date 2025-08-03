@@ -32,7 +32,7 @@ export default function VideoMemoryScreen({ onNext }) {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.3, duration: 0.8 }}
           >
-            Our Memory Album
+            This is for You
           </motion.h2>
 
           {!isVideoVisible ? (
@@ -96,7 +96,7 @@ export default function VideoMemoryScreen({ onNext }) {
                 animate={{ opacity: 1 }}
                 transition={{ delay: 1, duration: 0.8 }}
               >
-                Tap the cover to watch our special memory
+                Tap the cover to watch something special
               </motion.p>
             </motion.div>
           ) : (
@@ -150,3 +150,4 @@ export default function VideoMemoryScreen({ onNext }) {
     </div>
   )
 }
+
