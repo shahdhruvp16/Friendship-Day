@@ -257,7 +257,7 @@ export default function MemoryGameScreen({ onGameComplete, gameCompleted }) {
                 Amazing Bestie!
               </h2>
               <p className="text-gray-300 text-xl mb-2">Completed in {moves} moves!</p>
-              <p className="text-gray-400">Opening our memory album...</p>
+              <p className="text-gray-400">Opening something...</p>
             </motion.div>
           </motion.div>
         )}
@@ -265,3 +265,4 @@ export default function MemoryGameScreen({ onGameComplete, gameCompleted }) {
     </div>
   )
 }
+
